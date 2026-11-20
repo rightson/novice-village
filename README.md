@@ -11,7 +11,6 @@
 | --- | --- | --- |
 | 🧭 Jira | [Jira 新手完整教學｜概念、實作與團隊運作](jira/Jira%20新手完整教學｜概念、實作與團隊運作.pptx) | Jira Data Center 的核心概念（Project、Issue、Board、Sprint、Workflow）、Scrum／Kanban 團隊規劃、日常怎麼寫好一張 Issue、用 JQL 查詢與 Dashboard 追蹤、企業權限與治理，最後還有 30 分鐘實作與常見問題速查。 |
 | 🔌 Foundation IP | [Foundation IP 入門｜從晶片需求讀懂交付檔案](ip/Foundation%20IP%20入門｜從晶片需求讀懂交付檔案.pptx) | 從一顆 SoC 需要哪些基礎電路出發，分辨 Soft IP 與 Hard IP 的交付界線，認識 Standard Cell、SRAM、I/O Library、NVM／OTP 等交付檔案（.v、LEF 等不同 view 各自的用途），再看這些檔案如何接進 Floorplan 與設計流程。 |
-| 🖥️ IC Design Platform | [Foundation IP 給軟體開發者｜IC Design Platform 入門](ip/Foundation%20IP%20給軟體開發者｜IC%20Design%20Platform%20入門.pptx) | 寫軟體的人也能懂 IC 設計平台：認識 IP 與 Foundation IP 的四類檔案，學會把 IP、Release、View 建成三層資料，了解 Flow Planner 如何組裝流程輸入，並用小練習判斷平台該擋下哪個動作。 |
 
 ## 🗺️ 怎麼使用這些教材
 
@@ -45,7 +44,6 @@
 | --- | --- | --- |
 | 🧭 Jira | [Jira Beginner's Complete Guide (Traditional Chinese, .pptx)](jira/Jira%20新手完整教學｜概念、實作與團隊運作.pptx) | Core Jira Data Center concepts, Scrum/Kanban planning, writing good issues, JQL and dashboards, enterprise permissions and governance, plus a 30-minute hands-on exercise. |
 | 🔌 Foundation IP | [Foundation IP Primer: Reading IP Deliverables from Chip Requirements (Traditional Chinese, .pptx)](ip/Foundation%20IP%20入門｜從晶片需求讀懂交付檔案.pptx) | What basic circuits a SoC needs, the Soft IP vs. Hard IP delivery boundary, the deliverable files of standard cells, SRAM, I/O libraries and NVM/OTP, and how they plug into floorplanning and the design flow. |
-| 🖥️ IC Design Platform | [Foundation IP 給軟體開發者｜IC Design Platform 入門](ip/Foundation%20IP%20給軟體開發者｜IC%20Design%20Platform%20入門.pptx) | 寫軟體的人也能懂 IC 設計平台：認識 IP 與 Foundation IP 的四類檔案，學會把 IP、Release、View 建成三層資料，了解 Flow Planner 如何組裝流程輸入，並用小練習判斷平台該擋下哪個動作。 |
 
 Want to add materials? Create a folder for your topic, add your files, list it in the table above, and open a Pull Request. Every contribution helps the next newcomer. 💛
 
